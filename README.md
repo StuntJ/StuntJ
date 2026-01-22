@@ -28,4 +28,7 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StuntJ&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+    <div style="text-align: left;"> 
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=military_devil)](https://solved.ac/military_devil/)
+    </div>
     
