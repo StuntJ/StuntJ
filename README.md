@@ -6,6 +6,17 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 2학년때까지 알고리즘 하다가 게임개발에 푹 빠진 3학년 개발자 이재국입니다. </div> 
     </div>
     <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 경력 </h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+        🏆 2024 하이콘 저학년 특별상 <br>
+        🏆 2025 SUAPC Winter 특별상 <br>
+        🏆 2025 하이콘 동상 <br>
+        🏆 2025 SUAPC Summer 동상 <br>
+        🏆 2025 ICPC Regional 출전 <br>
+        🏆 2025 제 4회 UNIJAM 특별상 <br>
+        ☑️ 2025 하이아크 운영진 <br>
+    </div>
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -29,6 +40,8 @@
            /> </div> 
     </div>
     <div style="text-align: left;"> 
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=military_devil)](https://solved.ac/military_devil/)
+        <a href="https://solved.ac/military_devil/">
+            <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=military_devil" alt="Solved.ac Profile" />
+        </a>
     </div>
     
